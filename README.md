@@ -15,7 +15,7 @@ The first step to running this repo locally is downloading the code by cloning t
 After cloning, do the following:
 
 ```
-  cd testproject
+  cd test-cypress
   npm install
   npm install cypress
   npx cypress open
