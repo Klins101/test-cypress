@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The first step to running this repo locally is downloading the code by cloning the repository
 
-`git clone https://github.com/Klinsmann-Agyei/Test-Project---Cypress`
+`git clone https://github.com/Klinsmann-Agyei/test-cypress`
 
 After cloning, do the following:
 
